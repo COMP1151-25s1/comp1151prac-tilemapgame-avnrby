@@ -7,6 +7,9 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "Tilesheet.tsx": {
+            "scaleInEditor": 5.5
+        }
     },
     "last.imagePath": "C:/Users/49030906/Documents/comp1151prac-tilemapgame-avnrby/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
@@ -17,6 +20,7 @@
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "Tilesheet.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
